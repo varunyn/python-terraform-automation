@@ -1,4 +1,5 @@
-
+### Disclaimer
+- Please don't use this script in production env. Also there will be modifications based on individual env.
 #### Prerequisite
 - Make sure to have OCI config setup correctly
 - Open script.py file and modify line 17 to enter correct compartment OCID
@@ -18,3 +19,5 @@ pip install -r requirements
 ```
 python script.py
 ```
+
+
