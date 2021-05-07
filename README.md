@@ -1,5 +1,5 @@
 ### Disclaimer
-- Please don't use this script in production env. Also there will be modifications based on individual env.
+- Please don't use this script in production env. Also might be modifications needed in the script based on individual env. Use this as reference
 #### Prerequisite
 - Make sure to have OCI config setup correctly
 - Open script.py file and modify line 17 to enter correct compartment OCID
