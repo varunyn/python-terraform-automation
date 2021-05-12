@@ -3,7 +3,6 @@
 #### Prerequisite
 - Make sure to have OCI config setup correctly
 - Open script.py file and modify line 17 to enter correct compartment OCID
-- Assumption is all the stacks are related to compute VM.
 
 #### Run app
 
